@@ -127,7 +127,7 @@ module.exports = {
                 },
                 { to: '/blog', label: '公告', position: 'left' },
                 {
-                    href: 'https://github.com/Panxuc/THUAI7-Docs',
+                    href: 'https://github.com/eesast/THUAI7',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -194,10 +194,6 @@ module.exports = {
                             label: "GitHub",
                             href: "https://github.com/eesast",
                         },
-                        {
-                            label: "THUAI7",
-                            href: "https://github.com/eesast/THUAI7",
-                        },
                     ],
                 },
                 {
@@ -209,7 +205,7 @@ module.exports = {
                         },
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/Panxuc/THUAI7-Docs',
+                            href: 'https://github.com/eesast/THUAI7',
                         },
                     ],
                 },
